@@ -1,0 +1,17 @@
+<dependencies>
+
+    <!-- CSV Support -->
+    <dependency>
+        <groupId>com.opencsv</groupId>
+        <artifactId>opencsv</artifactId>
+        <version>5.8</version>
+    </dependency>
+
+    <!-- Machine Learning -->
+    <dependency>
+        <groupId>nz.ac.waikato.cms.weka</groupId>
+        <artifactId>weka-stable</artifactId>
+        <version>3.8.6</version>
+    </dependency>
+
+</dependencies>
